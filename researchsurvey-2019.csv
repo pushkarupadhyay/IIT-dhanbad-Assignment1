@@ -1,0 +1,901 @@
+Table,Breakdown,Secondary_Breakdown,Year,Value,Unit
+01 Total R&D Expenditure,01_R&D Expenditure,1) Business,2012,1193,$(million)
+01 Total R&D Expenditure,01_R&D Expenditure,1) Business,2014,1246,$(million)
+01 Total R&D Expenditure,01_R&D Expenditure,1) Business,2016,1602,$(million)
+01 Total R&D Expenditure,01_R&D Expenditure,1) Business,2018,2150,$(million)
+01 Total R&D Expenditure,01_R&D Expenditure,1) Business,2019,2407,$(million)
+01 Total R&D Expenditure,01_R&D Expenditure,2) Government,2012,596,$(million)
+01 Total R&D Expenditure,01_R&D Expenditure,2) Government,2014,622,$(million)
+01 Total R&D Expenditure,01_R&D Expenditure,2) Government,2016,658,$(million)
+01 Total R&D Expenditure,01_R&D Expenditure,2) Government,2018,784,$(million)
+01 Total R&D Expenditure,01_R&D Expenditure,2) Government,2019,.,$(million)
+01 Total R&D Expenditure,01_R&D Expenditure,3) Higher Education,2012,836,$(million)
+01 Total R&D Expenditure,01_R&D Expenditure,3) Higher Education,2014,817,$(million)
+01 Total R&D Expenditure,01_R&D Expenditure,3) Higher Education,2016,877,$(million)
+01 Total R&D Expenditure,01_R&D Expenditure,3) Higher Education,2018,960,$(million)
+01 Total R&D Expenditure,01_R&D Expenditure,3) Higher Education,2019,.,$(million)
+01 Total R&D Expenditure,01_R&D Expenditure,4) Total all sectors,2012,2625,$(million)
+01 Total R&D Expenditure,01_R&D Expenditure,4) Total all sectors,2014,2685,$(million)
+01 Total R&D Expenditure,01_R&D Expenditure,4) Total all sectors,2016,3136,$(million)
+01 Total R&D Expenditure,01_R&D Expenditure,4) Total all sectors,2018,3894,$(million)
+01 Total R&D Expenditure,01_R&D Expenditure,4) Total all sectors,2019,...,$(million)
+01 Total R&D Expenditure,02_R&D Exp as a proportion of GDP,1) Business,2012,0.56,$(million)
+01 Total R&D Expenditure,02_R&D Exp as a proportion of GDP,1) Business,2014,0.54,$(million)
+01 Total R&D Expenditure,02_R&D Exp as a proportion of GDP,1) Business,2016,0.63,$(million)
+01 Total R&D Expenditure,02_R&D Exp as a proportion of GDP,1) Business,2018,0.74,$(million)
+01 Total R&D Expenditure,02_R&D Exp as a proportion of GDP,1) Business,2019,0.8,$(million)
+01 Total R&D Expenditure,02_R&D Exp as a proportion of GDP,2) Government,2012,0.28,$(million)
+01 Total R&D Expenditure,02_R&D Exp as a proportion of GDP,2) Government,2014,0.27,$(million)
+01 Total R&D Expenditure,02_R&D Exp as a proportion of GDP,2) Government,2016,0.26,$(million)
+01 Total R&D Expenditure,02_R&D Exp as a proportion of GDP,2) Government,2018,0.27,$(million)
+01 Total R&D Expenditure,02_R&D Exp as a proportion of GDP,2) Government,2019,.,$(million)
+01 Total R&D Expenditure,02_R&D Exp as a proportion of GDP,3) Higher Education,2012,0.39,$(million)
+01 Total R&D Expenditure,02_R&D Exp as a proportion of GDP,3) Higher Education,2014,0.35,$(million)
+01 Total R&D Expenditure,02_R&D Exp as a proportion of GDP,3) Higher Education,2016,0.34,$(million)
+01 Total R&D Expenditure,02_R&D Exp as a proportion of GDP,3) Higher Education,2018,0.33,$(million)
+01 Total R&D Expenditure,02_R&D Exp as a proportion of GDP,3) Higher Education,2019,.,$(million)
+01 Total R&D Expenditure,02_R&D Exp as a proportion of GDP,4) Total all sectors,2012,1.23,$(million)
+01 Total R&D Expenditure,02_R&D Exp as a proportion of GDP,4) Total all sectors,2014,1.15,$(million)
+01 Total R&D Expenditure,02_R&D Exp as a proportion of GDP,4) Total all sectors,2016,1.23,$(million)
+01 Total R&D Expenditure,02_R&D Exp as a proportion of GDP,4) Total all sectors,2018,1.35,$(million)
+01 Total R&D Expenditure,02_R&D Exp as a proportion of GDP,4) Total all sectors,2019,.,$(million)
+02 Total R&D Expenditure by published industry,01_Primary,None,2012,125,$(million)
+02 Total R&D Expenditure by published industry,01_Primary,None,2014,92,$(million)
+02 Total R&D Expenditure by published industry,01_Primary,None,2016,96,$(million)
+02 Total R&D Expenditure by published industry,01_Primary,None,2018,100,$(million)
+02 Total R&D Expenditure by published industry,01_Primary,None,2019,98,$(million)
+02 Total R&D Expenditure by published industry,03_Manufacturing,None,2012,536,$(million)
+02 Total R&D Expenditure by published industry,03_Manufacturing,None,2014,522,$(million)
+02 Total R&D Expenditure by published industry,03_Manufacturing,None,2016,671,$(million)
+02 Total R&D Expenditure by published industry,03_Manufacturing,None,2018,680,$(million)
+02 Total R&D Expenditure by published industry,03_Manufacturing,None,2019,763,$(million)
+02 Total R&D Expenditure by published industry,04_Food_Manufacturing,None,2012,109,$(million)
+02 Total R&D Expenditure by published industry,04_Food_Manufacturing,None,2014,81,$(million)
+02 Total R&D Expenditure by published industry,04_Food_Manufacturing,None,2016,110,$(million)
+02 Total R&D Expenditure by published industry,04_Food_Manufacturing,None,2018,73,$(million)
+02 Total R&D Expenditure by published industry,04_Food_Manufacturing,None,2019,78,$(million)
+02 Total R&D Expenditure by published industry,05_Beverage and tobacco manufacturing,None,2012,5,$(million)
+02 Total R&D Expenditure by published industry,05_Beverage and tobacco manufacturing,None,2014,8,$(million)
+02 Total R&D Expenditure by published industry,05_Beverage and tobacco manufacturing,None,2016,7,$(million)
+02 Total R&D Expenditure by published industry,05_Beverage and tobacco manufacturing,None,2018,9,$(million)
+02 Total R&D Expenditure by published industry,05_Beverage and tobacco manufacturing,None,2019,10,$(million)
+02 Total R&D Expenditure by published industry,"06_Textiles, clothing, footwear, and leather manufacturing",None,2012,7,$(million)
+02 Total R&D Expenditure by published industry,"06_Textiles, clothing, footwear, and leather manufacturing",None,2014,11,$(million)
+02 Total R&D Expenditure by published industry,"06_Textiles, clothing, footwear, and leather manufacturing",None,2016,6,$(million)
+02 Total R&D Expenditure by published industry,"06_Textiles, clothing, footwear, and leather manufacturing",None,2018,9,$(million)
+02 Total R&D Expenditure by published industry,"06_Textiles, clothing, footwear, and leather manufacturing",None,2019,11,$(million)
+02 Total R&D Expenditure by published industry,"07_Petroleum, coal, chemical, and associated product",None,2012,72,$(million)
+02 Total R&D Expenditure by published industry,"07_Petroleum, coal, chemical, and associated product",None,2014,93,$(million)
+02 Total R&D Expenditure by published industry,"07_Petroleum, coal, chemical, and associated product",None,2016,76,$(million)
+02 Total R&D Expenditure by published industry,"07_Petroleum, coal, chemical, and associated product",None,2018,119,$(million)
+02 Total R&D Expenditure by published industry,"07_Petroleum, coal, chemical, and associated product",None,2019,100,$(million)
+02 Total R&D Expenditure by published industry,08_Non-metallic mineral product manufacturing,None,2012,4,$(million)
+02 Total R&D Expenditure by published industry,08_Non-metallic mineral product manufacturing,None,2014,2,$(million)
+02 Total R&D Expenditure by published industry,08_Non-metallic mineral product manufacturing,None,2016,3,$(million)
+02 Total R&D Expenditure by published industry,08_Non-metallic mineral product manufacturing,None,2018,3,$(million)
+02 Total R&D Expenditure by published industry,08_Non-metallic mineral product manufacturing,None,2019,3,$(million)
+02 Total R&D Expenditure by published industry,09_Metal product manufacturing,None,2012,31,$(million)
+02 Total R&D Expenditure by published industry,09_Metal product manufacturing,None,2014,28,$(million)
+02 Total R&D Expenditure by published industry,09_Metal product manufacturing,None,2016,67,$(million)
+02 Total R&D Expenditure by published industry,09_Metal product manufacturing,None,2018,73,$(million)
+02 Total R&D Expenditure by published industry,09_Metal product manufacturing,None,2019,82,$(million)
+02 Total R&D Expenditure by published industry,10_Machinery and equipment manufacturing,None,2012,295,$(million)
+02 Total R&D Expenditure by published industry,10_Machinery and equipment manufacturing,None,2014,287,$(million)
+02 Total R&D Expenditure by published industry,10_Machinery and equipment manufacturing,None,2016,392,$(million)
+02 Total R&D Expenditure by published industry,10_Machinery and equipment manufacturing,None,2018,378,$(million)
+02 Total R&D Expenditure by published industry,10_Machinery and equipment manufacturing,None,2019,450,$(million)
+02 Total R&D Expenditure by published industry,11_Other manufacturing,None,2012,14,$(million)
+02 Total R&D Expenditure by published industry,11_Other manufacturing,None,2014,11,$(million)
+02 Total R&D Expenditure by published industry,11_Other manufacturing,None,2016,10,$(million)
+02 Total R&D Expenditure by published industry,11_Other manufacturing,None,2018,16,$(million)
+02 Total R&D Expenditure by published industry,11_Other manufacturing,None,2019,28,$(million)
+02 Total R&D Expenditure by published industry,13_Services,None,2012,532,$(million)
+02 Total R&D Expenditure by published industry,13_Services,None,2014,632,$(million)
+02 Total R&D Expenditure by published industry,13_Services,None,2016,835,$(million)
+02 Total R&D Expenditure by published industry,13_Services,None,2018,1369,$(million)
+02 Total R&D Expenditure by published industry,13_Services,None,2019,1546,$(million)
+02 Total R&D Expenditure by published industry,14_Wholesale trade,None,2012,89,$(million)
+02 Total R&D Expenditure by published industry,14_Wholesale trade,None,2014,96,$(million)
+02 Total R&D Expenditure by published industry,14_Wholesale trade,None,2016,111,$(million)
+02 Total R&D Expenditure by published industry,14_Wholesale trade,None,2018,235,$(million)
+02 Total R&D Expenditure by published industry,14_Wholesale trade,None,2019,180,$(million)
+02 Total R&D Expenditure by published industry,15_Scientific research and technical services,None,2012,51,$(million)
+02 Total R&D Expenditure by published industry,15_Scientific research and technical services,None,2014,57,$(million)
+02 Total R&D Expenditure by published industry,15_Scientific research and technical services,None,2016,75,$(million)
+02 Total R&D Expenditure by published industry,15_Scientific research and technical services,None,2018,118,$(million)
+02 Total R&D Expenditure by published industry,15_Scientific research and technical services,None,2019,102,$(million)
+02 Total R&D Expenditure by published industry,16_Computer services,None,2012,221,$(million)
+02 Total R&D Expenditure by published industry,16_Computer services,None,2014,311,$(million)
+02 Total R&D Expenditure by published industry,16_Computer services,None,2016,436,$(million)
+02 Total R&D Expenditure by published industry,16_Computer services,None,2018,586,$(million)
+02 Total R&D Expenditure by published industry,16_Computer services,None,2019,748,$(million)
+02 Total R&D Expenditure by published industry,17_Other services,None,2012,171,$(million)
+02 Total R&D Expenditure by published industry,17_Other services,None,2014,168,$(million)
+02 Total R&D Expenditure by published industry,17_Other services,None,2016,212,$(million)
+02 Total R&D Expenditure by published industry,17_Other services,None,2018,430,$(million)
+02 Total R&D Expenditure by published industry,17_Other services,None,2019,517,$(million)
+02 Total R&D Expenditure by published industry,19_Total business sector,None,2012,1193,$(million)
+02 Total R&D Expenditure by published industry,19_Total business sector,None,2014,1246,$(million)
+02 Total R&D Expenditure by published industry,19_Total business sector,None,2016,1602,$(million)
+02 Total R&D Expenditure by published industry,19_Total business sector,None,2018,2150,$(million)
+02 Total R&D Expenditure by published industry,19_Total business sector,None,2019,2407,$(million)
+03 Businesses performing R&D by published industry,01_Primary,None,2012,96,Count
+03 Businesses performing R&D by published industry,01_Primary,None,2014,72,Count
+03 Businesses performing R&D by published industry,01_Primary,None,2016,72,Count
+03 Businesses performing R&D by published industry,01_Primary,None,2018,81,Count
+03 Businesses performing R&D by published industry,01_Primary,None,2019,87,Count
+03 Businesses performing R&D by published industry,03_Manufacturing,None,2012,708,Count
+03 Businesses performing R&D by published industry,03_Manufacturing,None,2014,702,Count
+03 Businesses performing R&D by published industry,03_Manufacturing,None,2016,624,Count
+03 Businesses performing R&D by published industry,03_Manufacturing,None,2018,684,Count
+03 Businesses performing R&D by published industry,03_Manufacturing,None,2019,735,Count
+03 Businesses performing R&D by published industry,04_Food_Manufacturing,None,2012,108,Count
+03 Businesses performing R&D by published industry,04_Food_Manufacturing,None,2014,102,Count
+03 Businesses performing R&D by published industry,04_Food_Manufacturing,None,2016,90,Count
+03 Businesses performing R&D by published industry,04_Food_Manufacturing,None,2018,114,Count
+03 Businesses performing R&D by published industry,04_Food_Manufacturing,None,2019,141,Count
+03 Businesses performing R&D by published industry,05_Beverage and tobacco manufacturing,None,2012,12,Count
+03 Businesses performing R&D by published industry,05_Beverage and tobacco manufacturing,None,2014,15,Count
+03 Businesses performing R&D by published industry,05_Beverage and tobacco manufacturing,None,2016,15,Count
+03 Businesses performing R&D by published industry,05_Beverage and tobacco manufacturing,None,2018,15,Count
+03 Businesses performing R&D by published industry,05_Beverage and tobacco manufacturing,None,2019,21,Count
+03 Businesses performing R&D by published industry,"06_Textiles, clothing, footwear, and leather manufacturing",None,2012,33,Count
+03 Businesses performing R&D by published industry,"06_Textiles, clothing, footwear, and leather manufacturing",None,2014,36,Count
+03 Businesses performing R&D by published industry,"06_Textiles, clothing, footwear, and leather manufacturing",None,2016,30,Count
+03 Businesses performing R&D by published industry,"06_Textiles, clothing, footwear, and leather manufacturing",None,2018,33,Count
+03 Businesses performing R&D by published industry,"06_Textiles, clothing, footwear, and leather manufacturing",None,2019,36,Count
+03 Businesses performing R&D by published industry,"07_Petroleum, coal, chemical, and associated product",None,2012,147,Count
+03 Businesses performing R&D by published industry,"07_Petroleum, coal, chemical, and associated product",None,2014,153,Count
+03 Businesses performing R&D by published industry,"07_Petroleum, coal, chemical, and associated product",None,2016,126,Count
+03 Businesses performing R&D by published industry,"07_Petroleum, coal, chemical, and associated product",None,2018,132,Count
+03 Businesses performing R&D by published industry,"07_Petroleum, coal, chemical, and associated product",None,2019,141,Count
+03 Businesses performing R&D by published industry,08_Non-metallic mineral product manufacturing,None,2012,18,Count
+03 Businesses performing R&D by published industry,08_Non-metallic mineral product manufacturing,None,2014,21,Count
+03 Businesses performing R&D by published industry,08_Non-metallic mineral product manufacturing,None,2016,15,Count
+03 Businesses performing R&D by published industry,08_Non-metallic mineral product manufacturing,None,2018,12,Count
+03 Businesses performing R&D by published industry,08_Non-metallic mineral product manufacturing,None,2019,12,Count
+03 Businesses performing R&D by published industry,09_Metal product manufacturing,None,2012,63,Count
+03 Businesses performing R&D by published industry,09_Metal product manufacturing,None,2014,72,Count
+03 Businesses performing R&D by published industry,09_Metal product manufacturing,None,2016,72,Count
+03 Businesses performing R&D by published industry,09_Metal product manufacturing,None,2018,69,Count
+03 Businesses performing R&D by published industry,09_Metal product manufacturing,None,2019,69,Count
+03 Businesses performing R&D by published industry,10_Machinery and equipment manufacturing,None,2012,264,Count
+03 Businesses performing R&D by published industry,10_Machinery and equipment manufacturing,None,2014,237,Count
+03 Businesses performing R&D by published industry,10_Machinery and equipment manufacturing,None,2016,225,Count
+03 Businesses performing R&D by published industry,10_Machinery and equipment manufacturing,None,2018,240,Count
+03 Businesses performing R&D by published industry,10_Machinery and equipment manufacturing,None,2019,252,Count
+03 Businesses performing R&D by published industry,11_Other manufacturing,None,2012,66,Count
+03 Businesses performing R&D by published industry,11_Other manufacturing,None,2014,69,Count
+03 Businesses performing R&D by published industry,11_Other manufacturing,None,2016,54,Count
+03 Businesses performing R&D by published industry,11_Other manufacturing,None,2018,69,Count
+03 Businesses performing R&D by published industry,11_Other manufacturing,None,2019,63,Count
+03 Businesses performing R&D by published industry,13_Services,None,2012,990,Count
+03 Businesses performing R&D by published industry,13_Services,None,2014,954,Count
+03 Businesses performing R&D by published industry,13_Services,None,2016,918,Count
+03 Businesses performing R&D by published industry,13_Services,None,2018,1143,Count
+03 Businesses performing R&D by published industry,13_Services,None,2019,1284,Count
+03 Businesses performing R&D by published industry,14_Wholesale trade,None,2012,198,Count
+03 Businesses performing R&D by published industry,14_Wholesale trade,None,2014,225,Count
+03 Businesses performing R&D by published industry,14_Wholesale trade,None,2016,210,Count
+03 Businesses performing R&D by published industry,14_Wholesale trade,None,2018,249,Count
+03 Businesses performing R&D by published industry,14_Wholesale trade,None,2019,249,Count
+03 Businesses performing R&D by published industry,15_Scientific research and technical services,None,2012,114,Count
+03 Businesses performing R&D by published industry,15_Scientific research and technical services,None,2014,105,Count
+03 Businesses performing R&D by published industry,15_Scientific research and technical services,None,2016,114,Count
+03 Businesses performing R&D by published industry,15_Scientific research and technical services,None,2018,111,Count
+03 Businesses performing R&D by published industry,15_Scientific research and technical services,None,2019,144,Count
+03 Businesses performing R&D by published industry,16_Computer services,None,2012,234,Count
+03 Businesses performing R&D by published industry,16_Computer services,None,2014,237,Count
+03 Businesses performing R&D by published industry,16_Computer services,None,2016,240,Count
+03 Businesses performing R&D by published industry,16_Computer services,None,2018,324,Count
+03 Businesses performing R&D by published industry,16_Computer services,None,2019,390,Count
+03 Businesses performing R&D by published industry,17_Other services,None,2012,444,Count
+03 Businesses performing R&D by published industry,17_Other services,None,2014,390,Count
+03 Businesses performing R&D by published industry,17_Other services,None,2016,351,Count
+03 Businesses performing R&D by published industry,17_Other services,None,2018,459,Count
+03 Businesses performing R&D by published industry,17_Other services,None,2019,501,Count
+03 Businesses performing R&D by published industry,19_Total business sector,None,2012,1794,Count
+03 Businesses performing R&D by published industry,19_Total business sector,None,2014,1725,Count
+03 Businesses performing R&D by published industry,19_Total business sector,None,2016,1617,Count
+03 Businesses performing R&D by published industry,19_Total business sector,None,2018,1911,Count
+03 Businesses performing R&D by published industry,19_Total business sector,None,2019,2106,Count
+04 Total R&D Expenditure by ANZSIC industry,"01_Agriculture, Forestry and Fishing",None,2012,84,$(million)
+04 Total R&D Expenditure by ANZSIC industry,"01_Agriculture, Forestry and Fishing",None,2014,81,$(million)
+04 Total R&D Expenditure by ANZSIC industry,"01_Agriculture, Forestry and Fishing",None,2016,91,$(million)
+04 Total R&D Expenditure by ANZSIC industry,"01_Agriculture, Forestry and Fishing",None,2018,91,$(million)
+04 Total R&D Expenditure by ANZSIC industry,"01_Agriculture, Forestry and Fishing",None,2019,89,$(million)
+04 Total R&D Expenditure by ANZSIC industry,02_Mining,None,2012,C,$(million)
+04 Total R&D Expenditure by ANZSIC industry,02_Mining,None,2014,12,$(million)
+04 Total R&D Expenditure by ANZSIC industry,02_Mining,None,2016,5,$(million)
+04 Total R&D Expenditure by ANZSIC industry,02_Mining,None,2018,9,$(million)
+04 Total R&D Expenditure by ANZSIC industry,02_Mining,None,2019,9,$(million)
+04 Total R&D Expenditure by ANZSIC industry,03_Manufacturing,None,2012,536,$(million)
+04 Total R&D Expenditure by ANZSIC industry,03_Manufacturing,None,2014,522,$(million)
+04 Total R&D Expenditure by ANZSIC industry,03_Manufacturing,None,2016,671,$(million)
+04 Total R&D Expenditure by ANZSIC industry,03_Manufacturing,None,2018,680,$(million)
+04 Total R&D Expenditure by ANZSIC industry,03_Manufacturing,None,2019,763,$(million)
+04 Total R&D Expenditure by ANZSIC industry,"04_Electricity, Gas, Water and Waste Services",None,2012,3,$(million)
+04 Total R&D Expenditure by ANZSIC industry,"04_Electricity, Gas, Water and Waste Services",None,2014,6,$(million)
+04 Total R&D Expenditure by ANZSIC industry,"04_Electricity, Gas, Water and Waste Services",None,2016,6,$(million)
+04 Total R&D Expenditure by ANZSIC industry,"04_Electricity, Gas, Water and Waste Services",None,2018,6,$(million)
+04 Total R&D Expenditure by ANZSIC industry,"04_Electricity, Gas, Water and Waste Services",None,2019,C,$(million)
+04 Total R&D Expenditure by ANZSIC industry,05_Construction,None,2012,30,$(million)
+04 Total R&D Expenditure by ANZSIC industry,05_Construction,None,2014,8,$(million)
+04 Total R&D Expenditure by ANZSIC industry,05_Construction,None,2016,13,$(million)
+04 Total R&D Expenditure by ANZSIC industry,05_Construction,None,2018,11,$(million)
+04 Total R&D Expenditure by ANZSIC industry,05_Construction,None,2019,12,$(million)
+04 Total R&D Expenditure by ANZSIC industry,06_Wholesale Trade,None,2012,89,$(million)
+04 Total R&D Expenditure by ANZSIC industry,06_Wholesale Trade,None,2014,96,$(million)
+04 Total R&D Expenditure by ANZSIC industry,06_Wholesale Trade,None,2016,111,$(million)
+04 Total R&D Expenditure by ANZSIC industry,06_Wholesale Trade,None,2018,235,$(million)
+04 Total R&D Expenditure by ANZSIC industry,06_Wholesale Trade,None,2019,180,$(million)
+04 Total R&D Expenditure by ANZSIC industry,07_Information Media and Telecommunications,None,2012,29,$(million)
+04 Total R&D Expenditure by ANZSIC industry,07_Information Media and Telecommunications,None,2014,37,$(million)
+04 Total R&D Expenditure by ANZSIC industry,07_Information Media and Telecommunications,None,2016,52,$(million)
+04 Total R&D Expenditure by ANZSIC industry,07_Information Media and Telecommunications,None,2018,92,$(million)
+04 Total R&D Expenditure by ANZSIC industry,07_Information Media and Telecommunications,None,2019,119,$(million)
+04 Total R&D Expenditure by ANZSIC industry,08_Financial and Insurance Services,None,2012,25,$(million)
+04 Total R&D Expenditure by ANZSIC industry,08_Financial and Insurance Services,None,2014,19,$(million)
+04 Total R&D Expenditure by ANZSIC industry,08_Financial and Insurance Services,None,2016,41,$(million)
+04 Total R&D Expenditure by ANZSIC industry,08_Financial and Insurance Services,None,2018,53,$(million)
+04 Total R&D Expenditure by ANZSIC industry,08_Financial and Insurance Services,None,2019,86,$(million)
+04 Total R&D Expenditure by ANZSIC industry,"09_Rental, Hiring and Real Estate Services",None,2012,13,$(million)
+04 Total R&D Expenditure by ANZSIC industry,"09_Rental, Hiring and Real Estate Services",None,2014,10,$(million)
+04 Total R&D Expenditure by ANZSIC industry,"09_Rental, Hiring and Real Estate Services",None,2016,4,$(million)
+04 Total R&D Expenditure by ANZSIC industry,"09_Rental, Hiring and Real Estate Services",None,2018,41,$(million)
+04 Total R&D Expenditure by ANZSIC industry,"09_Rental, Hiring and Real Estate Services",None,2019,32,$(million)
+04 Total R&D Expenditure by ANZSIC industry,"10_Professional, Scientific and Technical Services",None,2012,310,$(million)
+04 Total R&D Expenditure by ANZSIC industry,"10_Professional, Scientific and Technical Services",None,2014,421,$(million)
+04 Total R&D Expenditure by ANZSIC industry,"10_Professional, Scientific and Technical Services",None,2016,562,$(million)
+04 Total R&D Expenditure by ANZSIC industry,"10_Professional, Scientific and Technical Services",None,2018,867,$(million)
+04 Total R&D Expenditure by ANZSIC industry,"10_Professional, Scientific and Technical Services",None,2019,1008,$(million)
+04 Total R&D Expenditure by ANZSIC industry,11_Administrative and Support Services,None,2012,8,$(million)
+04 Total R&D Expenditure by ANZSIC industry,11_Administrative and Support Services,None,2014,14,$(million)
+04 Total R&D Expenditure by ANZSIC industry,11_Administrative and Support Services,None,2016,13,$(million)
+04 Total R&D Expenditure by ANZSIC industry,11_Administrative and Support Services,None,2018,19,$(million)
+04 Total R&D Expenditure by ANZSIC industry,11_Administrative and Support Services,None,2019,33,$(million)
+04 Total R&D Expenditure by ANZSIC industry,12_Public Administration and Safety,None,2012,C,$(million)
+04 Total R&D Expenditure by ANZSIC industry,12_Public Administration and Safety,None,2014,1,$(million)
+04 Total R&D Expenditure by ANZSIC industry,12_Public Administration and Safety,None,2016,C,$(million)
+04 Total R&D Expenditure by ANZSIC industry,12_Public Administration and Safety,None,2018,C,$(million)
+04 Total R&D Expenditure by ANZSIC industry,12_Public Administration and Safety,None,2019,C,$(million)
+04 Total R&D Expenditure by ANZSIC industry,13_Health Care and Social Assistance,None,2012,12,$(million)
+04 Total R&D Expenditure by ANZSIC industry,13_Health Care and Social Assistance,None,2014,9,$(million)
+04 Total R&D Expenditure by ANZSIC industry,13_Health Care and Social Assistance,None,2016,13,$(million)
+04 Total R&D Expenditure by ANZSIC industry,13_Health Care and Social Assistance,None,2018,17,$(million)
+04 Total R&D Expenditure by ANZSIC industry,13_Health Care and Social Assistance,None,2019,20,$(million)
+04 Total R&D Expenditure by ANZSIC industry,14_Arts and Recreation Services,None,2012,C,$(million)
+04 Total R&D Expenditure by ANZSIC industry,14_Arts and Recreation Services,None,2014,1,$(million)
+04 Total R&D Expenditure by ANZSIC industry,14_Arts and Recreation Services,None,2016,15,$(million)
+04 Total R&D Expenditure by ANZSIC industry,14_Arts and Recreation Services,None,2018,2,$(million)
+04 Total R&D Expenditure by ANZSIC industry,14_Arts and Recreation Services,None,2019,30,$(million)
+04 Total R&D Expenditure by ANZSIC industry,15_Other Services,None,2012,6,$(million)
+04 Total R&D Expenditure by ANZSIC industry,15_Other Services,None,2014,12,$(million)
+04 Total R&D Expenditure by ANZSIC industry,15_Other Services,None,2016,5,$(million)
+04 Total R&D Expenditure by ANZSIC industry,15_Other Services,None,2018,26,$(million)
+04 Total R&D Expenditure by ANZSIC industry,15_Other Services,None,2019,18,$(million)
+04 Total R&D Expenditure by ANZSIC industry,19_Total business sector,None,2012,1193,$(million)
+04 Total R&D Expenditure by ANZSIC industry,19_Total business sector,None,2014,1246,$(million)
+04 Total R&D Expenditure by ANZSIC industry,19_Total business sector,None,2016,1602,$(million)
+04 Total R&D Expenditure by ANZSIC industry,19_Total business sector,None,2018,2150,$(million)
+04 Total R&D Expenditure by ANZSIC industry,19_Total business sector,None,2019,2407,$(million)
+05 Purpose of Research,01_Primary industries,None,2012,194,$(million)
+05 Purpose of Research,01_Primary industries,None,2014,195,$(million)
+05 Purpose of Research,01_Primary industries,None,2016,266,$(million)
+05 Purpose of Research,01_Primary industries,None,2018,330,$(million)
+05 Purpose of Research,01_Primary industries,None,2019,313,$(million)
+05 Purpose of Research,02_Energy,None,2012,69,$(million)
+05 Purpose of Research,02_Energy,None,2014,58,$(million)
+05 Purpose of Research,02_Energy,None,2016,37,$(million)
+05 Purpose of Research,02_Energy,None,2018,50,$(million)
+05 Purpose of Research,02_Energy,None,2019,79,$(million)
+05 Purpose of Research,03_Manufacturing,None,2012,385,$(million)
+05 Purpose of Research,03_Manufacturing,None,2014,353,$(million)
+05 Purpose of Research,03_Manufacturing,None,2016,478,$(million)
+05 Purpose of Research,03_Manufacturing,None,2018,503,$(million)
+05 Purpose of Research,03_Manufacturing,None,2019,543,$(million)
+05 Purpose of Research,04_Construction and transport,None,2012,104,$(million)
+05 Purpose of Research,04_Construction and transport,None,2014,91,$(million)
+05 Purpose of Research,04_Construction and transport,None,2016,151,$(million)
+05 Purpose of Research,04_Construction and transport,None,2018,195,$(million)
+05 Purpose of Research,04_Construction and transport,None,2019,239,$(million)
+05 Purpose of Research,05_Information and communication services,None,2012,200,$(million)
+05 Purpose of Research,05_Information and communication services,None,2014,248,$(million)
+05 Purpose of Research,05_Information and communication services,None,2016,258,$(million)
+05 Purpose of Research,05_Information and communication services,None,2018,354,$(million)
+05 Purpose of Research,05_Information and communication services,None,2019,445,$(million)
+05 Purpose of Research,06_Commercial services and tourism,None,2012,41,$(million)
+05 Purpose of Research,06_Commercial services and tourism,None,2014,35,$(million)
+05 Purpose of Research,06_Commercial services and tourism,None,2016,112,$(million)
+05 Purpose of Research,06_Commercial services and tourism,None,2018,220,$(million)
+05 Purpose of Research,06_Commercial services and tourism,None,2019,217,$(million)
+05 Purpose of Research,07_Health,None,2012,83,$(million)
+05 Purpose of Research,07_Health,None,2014,91,$(million)
+05 Purpose of Research,07_Health,None,2016,139,$(million)
+05 Purpose of Research,07_Health,None,2018,252,$(million)
+05 Purpose of Research,07_Health,None,2019,310,$(million)
+05 Purpose of Research,08_Education and training,None,2012,5,$(million)
+05 Purpose of Research,08_Education and training,None,2014,7,$(million)
+05 Purpose of Research,08_Education and training,None,2016,14,$(million)
+05 Purpose of Research,08_Education and training,None,2018,22,$(million)
+05 Purpose of Research,08_Education and training,None,2019,29,$(million)
+05 Purpose of Research,"09_Law, politics, and community services",None,2012,15,$(million)
+05 Purpose of Research,"09_Law, politics, and community services",None,2014,10,$(million)
+05 Purpose of Research,"09_Law, politics, and community services",None,2016,6,$(million)
+05 Purpose of Research,"09_Law, politics, and community services",None,2018,6,$(million)
+05 Purpose of Research,"09_Law, politics, and community services",None,2019,25,$(million)
+05 Purpose of Research,10_Cultural understanding,None,2012,3,$(million)
+05 Purpose of Research,10_Cultural understanding,None,2014,1,$(million)
+05 Purpose of Research,10_Cultural understanding,None,2016,3,$(million)
+05 Purpose of Research,10_Cultural understanding,None,2018,35,$(million)
+05 Purpose of Research,10_Cultural understanding,None,2019,12,$(million)
+05 Purpose of Research,11_Economic framework,None,2012,3,$(million)
+05 Purpose of Research,11_Economic framework,None,2014,3,$(million)
+05 Purpose of Research,11_Economic framework,None,2016,7,$(million)
+05 Purpose of Research,11_Economic framework,None,2018,14,$(million)
+05 Purpose of Research,11_Economic framework,None,2019,10,$(million)
+05 Purpose of Research,12_Environment,None,2012,17,$(million)
+05 Purpose of Research,12_Environment,None,2014,23,$(million)
+05 Purpose of Research,12_Environment,None,2016,19,$(million)
+05 Purpose of Research,12_Environment,None,2018,31,$(million)
+05 Purpose of Research,12_Environment,None,2019,46,$(million)
+05 Purpose of Research,13_Other,None,2012,74,$(million)
+05 Purpose of Research,13_Other,None,2014,132,$(million)
+05 Purpose of Research,13_Other,None,2016,111,$(million)
+05 Purpose of Research,13_Other,None,2018,139,$(million)
+05 Purpose of Research,13_Other,None,2019,133,$(million)
+05 Purpose of Research,16_Total Business Sector,None,2012,1193,$(million)
+05 Purpose of Research,16_Total Business Sector,None,2014,1246,$(million)
+05 Purpose of Research,16_Total Business Sector,None,2016,1602,$(million)
+05 Purpose of Research,16_Total Business Sector,None,2018,2150,$(million)
+05 Purpose of Research,16_Total Business Sector,None,2019,2407,$(million)
+06 Source of funds,1) New Zealand businesses,None,2012,911,$(million)
+06 Source of funds,1) New Zealand businesses,None,2014,927,$(million)
+06 Source of funds,1) New Zealand businesses,None,2016,1222,$(million)
+06 Source of funds,1) New Zealand businesses,None,2018,1631,$(million)
+06 Source of funds,1) New Zealand businesses,None,2019,1823,$(million)
+06 Source of funds,2) Own Funds,None,2012,880,$(million)
+06 Source of funds,2) Own Funds,None,2014,897,$(million)
+06 Source of funds,2) Own Funds,None,2016,1184,$(million)
+06 Source of funds,2) Own Funds,None,2018,1578,$(million)
+06 Source of funds,2) Own Funds,None,2019,1746,$(million)
+06 Source of funds,3) Other New Zealand businesses,None,2012,31,$(million)
+06 Source of funds,3) Other New Zealand businesses,None,2014,31,$(million)
+06 Source of funds,3) Other New Zealand businesses,None,2016,37,$(million)
+06 Source of funds,3) Other New Zealand businesses,None,2018,53,$(million)
+06 Source of funds,3) Other New Zealand businesses,None,2019,77,$(million)
+06 Source of funds,4) New Zealand government,None,2012,126,$(million)
+06 Source of funds,4) New Zealand government,None,2014,85,$(million)
+06 Source of funds,4) New Zealand government,None,2016,176,$(million)
+06 Source of funds,4) New Zealand government,None,2018,256,$(million)
+06 Source of funds,4) New Zealand government,None,2019,281,$(million)
+06 Source of funds,5) Tertiary education,None,2012,C,$(million)
+06 Source of funds,5) Tertiary education,None,2014,C,$(million)
+06 Source of funds,5) Tertiary education,None,2016,1,$(million)
+06 Source of funds,5) Tertiary education,None,2018,1,$(million)
+06 Source of funds,5) Tertiary education,None,2019,2,$(million)
+06 Source of funds,6) Overseas,None,2012,106,$(million)
+06 Source of funds,6) Overseas,None,2014,144,$(million)
+06 Source of funds,6) Overseas,None,2016,168,$(million)
+06 Source of funds,6) Overseas,None,2018,236,$(million)
+06 Source of funds,6) Overseas,None,2019,261,$(million)
+06 Source of funds,7) Other funding sources,None,2012,C,$(million)
+06 Source of funds,7) Other funding sources,None,2014,C,$(million)
+06 Source of funds,7) Other funding sources,None,2016,C,$(million)
+06 Source of funds,7) Other funding sources,None,2018,C,$(million)
+06 Source of funds,7) Other funding sources,None,2019,39,$(million)
+06 Source of funds,9) Total Business Sector,None,2012,1193,$(million)
+06 Source of funds,9) Total Business Sector,None,2014,1246,$(million)
+06 Source of funds,9) Total Business Sector,None,2016,1602,$(million)
+06 Source of funds,9) Total Business Sector,None,2018,2150,$(million)
+06 Source of funds,9) Total Business Sector,None,2019,2407,$(million)
+07 Type of Research,01_Basic,None,2012,71,$(million)
+07 Type of Research,01_Basic,None,2014,85,$(million)
+07 Type of Research,01_Basic,None,2016,99,$(million)
+07 Type of Research,01_Basic,None,2018,142,$(million)
+07 Type of Research,01_Basic,None,2019,158,$(million)
+07 Type of Research,02_Applied,None,2012,436,$(million)
+07 Type of Research,02_Applied,None,2014,403,$(million)
+07 Type of Research,02_Applied,None,2016,629,$(million)
+07 Type of Research,02_Applied,None,2018,849,$(million)
+07 Type of Research,02_Applied,None,2019,903,$(million)
+07 Type of Research,03_Experimental,None,2012,686,$(million)
+07 Type of Research,03_Experimental,None,2014,757,$(million)
+07 Type of Research,03_Experimental,None,2016,874,$(million)
+07 Type of Research,03_Experimental,None,2018,1159,$(million)
+07 Type of Research,03_Experimental,None,2019,1326,$(million)
+07 Type of Research,05_Total business sector,None,2012,1193,$(million)
+07 Type of Research,05_Total business sector,None,2014,1246,$(million)
+07 Type of Research,05_Total business sector,None,2016,1602,$(million)
+07 Type of Research,05_Total business sector,None,2018,2150,$(million)
+07 Type of Research,05_Total business sector,None,2019,2407,$(million)
+08 Type of expenditure,01_Wages and Salaries,01_Primary,2012,28,$(million)
+08 Type of expenditure,01_Wages and Salaries,01_Primary,2014,36,$(million)
+08 Type of expenditure,01_Wages and Salaries,01_Primary,2016,32,$(million)
+08 Type of expenditure,01_Wages and Salaries,01_Primary,2018,51,$(million)
+08 Type of expenditure,01_Wages and Salaries,01_Primary,2019,34,$(million)
+08 Type of expenditure,01_Wages and Salaries,02_Manufacturing,2012,52,$(million)
+08 Type of expenditure,01_Wages and Salaries,02_Manufacturing,2014,62,$(million)
+08 Type of expenditure,01_Wages and Salaries,02_Manufacturing,2016,56,$(million)
+08 Type of expenditure,01_Wages and Salaries,02_Manufacturing,2018,55,$(million)
+08 Type of expenditure,01_Wages and Salaries,02_Manufacturing,2019,55,$(million)
+08 Type of expenditure,01_Wages and Salaries,03_Services,2012,57,$(million)
+08 Type of expenditure,01_Wages and Salaries,03_Services,2014,63,$(million)
+08 Type of expenditure,01_Wages and Salaries,03_Services,2016,60,$(million)
+08 Type of expenditure,01_Wages and Salaries,03_Services,2018,54,$(million)
+08 Type of expenditure,01_Wages and Salaries,03_Services,2019,58,$(million)
+08 Type of expenditure,01_Wages and Salaries,05_Total business sector,2012,52,$(million)
+08 Type of expenditure,01_Wages and Salaries,05_Total business sector,2014,60,$(million)
+08 Type of expenditure,01_Wages and Salaries,05_Total business sector,2016,57,$(million)
+08 Type of expenditure,01_Wages and Salaries,05_Total business sector,2018,54,$(million)
+08 Type of expenditure,01_Wages and Salaries,05_Total business sector,2019,56,$(million)
+08 Type of expenditure,02_Capital expenditure,01_Primary,2012,5,$(million)
+08 Type of expenditure,02_Capital expenditure,01_Primary,2014,2,$(million)
+08 Type of expenditure,02_Capital expenditure,01_Primary,2016,7,$(million)
+08 Type of expenditure,02_Capital expenditure,01_Primary,2018,4,$(million)
+08 Type of expenditure,02_Capital expenditure,01_Primary,2019,7,$(million)
+08 Type of expenditure,02_Capital expenditure,02_Manufacturing,2012,10,$(million)
+08 Type of expenditure,02_Capital expenditure,02_Manufacturing,2014,6,$(million)
+08 Type of expenditure,02_Capital expenditure,02_Manufacturing,2016,4,$(million)
+08 Type of expenditure,02_Capital expenditure,02_Manufacturing,2018,7,$(million)
+08 Type of expenditure,02_Capital expenditure,02_Manufacturing,2019,6,$(million)
+08 Type of expenditure,02_Capital expenditure,03_Services,2012,10,$(million)
+08 Type of expenditure,02_Capital expenditure,03_Services,2014,5,$(million)
+08 Type of expenditure,02_Capital expenditure,03_Services,2016,8,$(million)
+08 Type of expenditure,02_Capital expenditure,03_Services,2018,7,$(million)
+08 Type of expenditure,02_Capital expenditure,03_Services,2019,8,$(million)
+08 Type of expenditure,02_Capital expenditure,05_Total business sector,2012,10,$(million)
+08 Type of expenditure,02_Capital expenditure,05_Total business sector,2014,5,$(million)
+08 Type of expenditure,02_Capital expenditure,05_Total business sector,2016,6,$(million)
+08 Type of expenditure,02_Capital expenditure,05_Total business sector,2018,7,$(million)
+08 Type of expenditure,02_Capital expenditure,05_Total business sector,2019,7,$(million)
+08 Type of expenditure,03_Other current expenditure,01_Primary,2012,67,$(million)
+08 Type of expenditure,03_Other current expenditure,01_Primary,2014,62,$(million)
+08 Type of expenditure,03_Other current expenditure,01_Primary,2016,61,$(million)
+08 Type of expenditure,03_Other current expenditure,01_Primary,2018,45,$(million)
+08 Type of expenditure,03_Other current expenditure,01_Primary,2019,58,$(million)
+08 Type of expenditure,03_Other current expenditure,02_Manufacturing,2012,38,$(million)
+08 Type of expenditure,03_Other current expenditure,02_Manufacturing,2014,33,$(million)
+08 Type of expenditure,03_Other current expenditure,02_Manufacturing,2016,40,$(million)
+08 Type of expenditure,03_Other current expenditure,02_Manufacturing,2018,38,$(million)
+08 Type of expenditure,03_Other current expenditure,02_Manufacturing,2019,38,$(million)
+08 Type of expenditure,03_Other current expenditure,03_Services,2012,33,$(million)
+08 Type of expenditure,03_Other current expenditure,03_Services,2014,32,$(million)
+08 Type of expenditure,03_Other current expenditure,03_Services,2016,32,$(million)
+08 Type of expenditure,03_Other current expenditure,03_Services,2018,39,$(million)
+08 Type of expenditure,03_Other current expenditure,03_Services,2019,34,$(million)
+08 Type of expenditure,03_Other current expenditure,05_Total business sector,2012,39,$(million)
+08 Type of expenditure,03_Other current expenditure,05_Total business sector,2014,35,$(million)
+08 Type of expenditure,03_Other current expenditure,05_Total business sector,2016,37,$(million)
+08 Type of expenditure,03_Other current expenditure,05_Total business sector,2018,39,$(million)
+08 Type of expenditure,03_Other current expenditure,05_Total business sector,2019,37,$(million)
+08 Type of expenditure,05_Total expenditure ($ million),01_Primary,2012,125,$(million)
+08 Type of expenditure,05_Total expenditure ($ million),01_Primary,2014,92,$(million)
+08 Type of expenditure,05_Total expenditure ($ million),01_Primary,2016,96,$(million)
+08 Type of expenditure,05_Total expenditure ($ million),01_Primary,2018,100,$(million)
+08 Type of expenditure,05_Total expenditure ($ million),01_Primary,2019,98,$(million)
+08 Type of expenditure,05_Total expenditure ($ million),02_Manufacturing,2012,536,$(million)
+08 Type of expenditure,05_Total expenditure ($ million),02_Manufacturing,2014,522,$(million)
+08 Type of expenditure,05_Total expenditure ($ million),02_Manufacturing,2016,671,$(million)
+08 Type of expenditure,05_Total expenditure ($ million),02_Manufacturing,2018,680,$(million)
+08 Type of expenditure,05_Total expenditure ($ million),02_Manufacturing,2019,763,$(million)
+08 Type of expenditure,05_Total expenditure ($ million),03_Services,2012,532,$(million)
+08 Type of expenditure,05_Total expenditure ($ million),03_Services,2014,632,$(million)
+08 Type of expenditure,05_Total expenditure ($ million),03_Services,2016,835,$(million)
+08 Type of expenditure,05_Total expenditure ($ million),03_Services,2018,1369,$(million)
+08 Type of expenditure,05_Total expenditure ($ million),03_Services,2019,1546,$(million)
+08 Type of expenditure,05_Total expenditure ($ million),05_Total business sector,2012,1193,$(million)
+08 Type of expenditure,05_Total expenditure ($ million),05_Total business sector,2014,1246,$(million)
+08 Type of expenditure,05_Total expenditure ($ million),05_Total business sector,2016,1602,$(million)
+08 Type of expenditure,05_Total expenditure ($ million),05_Total business sector,2018,2150,$(million)
+08 Type of expenditure,05_Total expenditure ($ million),05_Total business sector,2019,2407,$(million)
+09 Expectation of future levels of R&D by sub-sect,01_Decrease,01_Primary,2012,17,Percent
+09 Expectation of future levels of R&D by sub-sect,01_Decrease,01_Primary,2014,19,Percent
+09 Expectation of future levels of R&D by sub-sect,01_Decrease,01_Primary,2016,7,Percent
+09 Expectation of future levels of R&D by sub-sect,01_Decrease,01_Primary,2018,18,Percent
+09 Expectation of future levels of R&D by sub-sect,01_Decrease,01_Primary,2019,15,Percent
+09 Expectation of future levels of R&D by sub-sect,01_Decrease,02_Manufacturing,2012,13,Percent
+09 Expectation of future levels of R&D by sub-sect,01_Decrease,02_Manufacturing,2014,13,Percent
+09 Expectation of future levels of R&D by sub-sect,01_Decrease,02_Manufacturing,2016,8,Percent
+09 Expectation of future levels of R&D by sub-sect,01_Decrease,02_Manufacturing,2018,10,Percent
+09 Expectation of future levels of R&D by sub-sect,01_Decrease,02_Manufacturing,2019,9,Percent
+09 Expectation of future levels of R&D by sub-sect,01_Decrease,03_Services,2012,15,Percent
+09 Expectation of future levels of R&D by sub-sect,01_Decrease,03_Services,2014,12,Percent
+09 Expectation of future levels of R&D by sub-sect,01_Decrease,03_Services,2016,10,Percent
+09 Expectation of future levels of R&D by sub-sect,01_Decrease,03_Services,2018,11,Percent
+09 Expectation of future levels of R&D by sub-sect,01_Decrease,03_Services,2019,11,Percent
+09 Expectation of future levels of R&D by sub-sect,01_Decrease,05_Total business sector,2012,15,Percent
+09 Expectation of future levels of R&D by sub-sect,01_Decrease,05_Total business sector,2014,13,Percent
+09 Expectation of future levels of R&D by sub-sect,01_Decrease,05_Total business sector,2016,9,Percent
+09 Expectation of future levels of R&D by sub-sect,01_Decrease,05_Total business sector,2018,11,Percent
+09 Expectation of future levels of R&D by sub-sect,01_Decrease,05_Total business sector,2019,11,Percent
+09 Expectation of future levels of R&D by sub-sect,02_Stay the same,01_Primary,2012,44,Percent
+09 Expectation of future levels of R&D by sub-sect,02_Stay the same,01_Primary,2014,35,Percent
+09 Expectation of future levels of R&D by sub-sect,02_Stay the same,01_Primary,2016,48,Percent
+09 Expectation of future levels of R&D by sub-sect,02_Stay the same,01_Primary,2018,42,Percent
+09 Expectation of future levels of R&D by sub-sect,02_Stay the same,01_Primary,2019,43,Percent
+09 Expectation of future levels of R&D by sub-sect,02_Stay the same,02_Manufacturing,2012,42,Percent
+09 Expectation of future levels of R&D by sub-sect,02_Stay the same,02_Manufacturing,2014,38,Percent
+09 Expectation of future levels of R&D by sub-sect,02_Stay the same,02_Manufacturing,2016,42,Percent
+09 Expectation of future levels of R&D by sub-sect,02_Stay the same,02_Manufacturing,2018,36,Percent
+09 Expectation of future levels of R&D by sub-sect,02_Stay the same,02_Manufacturing,2019,35,Percent
+09 Expectation of future levels of R&D by sub-sect,02_Stay the same,03_Services,2012,36,Percent
+09 Expectation of future levels of R&D by sub-sect,02_Stay the same,03_Services,2014,32,Percent
+09 Expectation of future levels of R&D by sub-sect,02_Stay the same,03_Services,2016,39,Percent
+09 Expectation of future levels of R&D by sub-sect,02_Stay the same,03_Services,2018,34,Percent
+09 Expectation of future levels of R&D by sub-sect,02_Stay the same,03_Services,2019,32,Percent
+09 Expectation of future levels of R&D by sub-sect,02_Stay the same,05_Total business sector,2012,39,Percent
+09 Expectation of future levels of R&D by sub-sect,02_Stay the same,05_Total business sector,2014,35,Percent
+09 Expectation of future levels of R&D by sub-sect,02_Stay the same,05_Total business sector,2016,40,Percent
+09 Expectation of future levels of R&D by sub-sect,02_Stay the same,05_Total business sector,2018,35,Percent
+09 Expectation of future levels of R&D by sub-sect,02_Stay the same,05_Total business sector,2019,34,Percent
+09 Expectation of future levels of R&D by sub-sect,03_Increase,01_Primary,2012,31,Percent
+09 Expectation of future levels of R&D by sub-sect,03_Increase,01_Primary,2014,38,Percent
+09 Expectation of future levels of R&D by sub-sect,03_Increase,01_Primary,2016,42,Percent
+09 Expectation of future levels of R&D by sub-sect,03_Increase,01_Primary,2018,33,Percent
+09 Expectation of future levels of R&D by sub-sect,03_Increase,01_Primary,2019,36,Percent
+09 Expectation of future levels of R&D by sub-sect,03_Increase,02_Manufacturing,2012,40,Percent
+09 Expectation of future levels of R&D by sub-sect,03_Increase,02_Manufacturing,2014,43,Percent
+09 Expectation of future levels of R&D by sub-sect,03_Increase,02_Manufacturing,2016,43,Percent
+09 Expectation of future levels of R&D by sub-sect,03_Increase,02_Manufacturing,2018,49,Percent
+09 Expectation of future levels of R&D by sub-sect,03_Increase,02_Manufacturing,2019,50,Percent
+09 Expectation of future levels of R&D by sub-sect,03_Increase,03_Services,2012,40,Percent
+09 Expectation of future levels of R&D by sub-sect,03_Increase,03_Services,2014,49,Percent
+09 Expectation of future levels of R&D by sub-sect,03_Increase,03_Services,2016,46,Percent
+09 Expectation of future levels of R&D by sub-sect,03_Increase,03_Services,2018,48,Percent
+09 Expectation of future levels of R&D by sub-sect,03_Increase,03_Services,2019,50,Percent
+09 Expectation of future levels of R&D by sub-sect,03_Increase,05_Total business sector,2012,40,Percent
+09 Expectation of future levels of R&D by sub-sect,03_Increase,05_Total business sector,2014,46,Percent
+09 Expectation of future levels of R&D by sub-sect,03_Increase,05_Total business sector,2016,45,Percent
+09 Expectation of future levels of R&D by sub-sect,03_Increase,05_Total business sector,2018,48,Percent
+09 Expectation of future levels of R&D by sub-sect,03_Increase,05_Total business sector,2019,49,Percent
+09 Expectation of future levels of R&D by sub-sect,04_Don't know,01_Primary,2012,7,Percent
+09 Expectation of future levels of R&D by sub-sect,04_Don't know,01_Primary,2014,7,Percent
+09 Expectation of future levels of R&D by sub-sect,04_Don't know,01_Primary,2016,2,Percent
+09 Expectation of future levels of R&D by sub-sect,04_Don't know,01_Primary,2018,8,Percent
+09 Expectation of future levels of R&D by sub-sect,04_Don't know,01_Primary,2019,5,Percent
+09 Expectation of future levels of R&D by sub-sect,04_Don't know,02_Manufacturing,2012,4,Percent
+09 Expectation of future levels of R&D by sub-sect,04_Don't know,02_Manufacturing,2014,6,Percent
+09 Expectation of future levels of R&D by sub-sect,04_Don't know,02_Manufacturing,2016,6,Percent
+09 Expectation of future levels of R&D by sub-sect,04_Don't know,02_Manufacturing,2018,4,Percent
+09 Expectation of future levels of R&D by sub-sect,04_Don't know,02_Manufacturing,2019,5,Percent
+09 Expectation of future levels of R&D by sub-sect,04_Don't know,03_Services,2012,7,Percent
+09 Expectation of future levels of R&D by sub-sect,04_Don't know,03_Services,2014,6,Percent
+09 Expectation of future levels of R&D by sub-sect,04_Don't know,03_Services,2016,5,Percent
+09 Expectation of future levels of R&D by sub-sect,04_Don't know,03_Services,2018,7,Percent
+09 Expectation of future levels of R&D by sub-sect,04_Don't know,03_Services,2019,6,Percent
+09 Expectation of future levels of R&D by sub-sect,04_Don't know,05_Total business sector,2012,6,Percent
+09 Expectation of future levels of R&D by sub-sect,04_Don't know,05_Total business sector,2014,6,Percent
+09 Expectation of future levels of R&D by sub-sect,04_Don't know,05_Total business sector,2016,5,Percent
+09 Expectation of future levels of R&D by sub-sect,04_Don't know,05_Total business sector,2018,6,Percent
+09 Expectation of future levels of R&D by sub-sect,04_Don't know,05_Total business sector,2019,6,Percent
+09 Expectation of future levels of R&D by sub-sect,05_Not specified,01_Primary,2012,2,Percent
+09 Expectation of future levels of R&D by sub-sect,05_Not specified,01_Primary,2014,2,Percent
+09 Expectation of future levels of R&D by sub-sect,05_Not specified,01_Primary,2016,2,Percent
+09 Expectation of future levels of R&D by sub-sect,05_Not specified,01_Primary,2018,0,Percent
+09 Expectation of future levels of R&D by sub-sect,05_Not specified,01_Primary,2019,2,Percent
+09 Expectation of future levels of R&D by sub-sect,05_Not specified,02_Manufacturing,2012,1,Percent
+09 Expectation of future levels of R&D by sub-sect,05_Not specified,02_Manufacturing,2014,1,Percent
+09 Expectation of future levels of R&D by sub-sect,05_Not specified,02_Manufacturing,2016,1,Percent
+09 Expectation of future levels of R&D by sub-sect,05_Not specified,02_Manufacturing,2018,2,Percent
+09 Expectation of future levels of R&D by sub-sect,05_Not specified,02_Manufacturing,2019,1,Percent
+09 Expectation of future levels of R&D by sub-sect,05_Not specified,03_Services,2012,1,Percent
+09 Expectation of future levels of R&D by sub-sect,05_Not specified,03_Services,2014,1,Percent
+09 Expectation of future levels of R&D by sub-sect,05_Not specified,03_Services,2016,1,Percent
+09 Expectation of future levels of R&D by sub-sect,05_Not specified,03_Services,2018,1,Percent
+09 Expectation of future levels of R&D by sub-sect,05_Not specified,03_Services,2019,1,Percent
+09 Expectation of future levels of R&D by sub-sect,05_Not specified,05_Total business sector,2012,1,Percent
+09 Expectation of future levels of R&D by sub-sect,05_Not specified,05_Total business sector,2014,1,Percent
+09 Expectation of future levels of R&D by sub-sect,05_Not specified,05_Total business sector,2016,1,Percent
+09 Expectation of future levels of R&D by sub-sect,05_Not specified,05_Total business sector,2018,1,Percent
+09 Expectation of future levels of R&D by sub-sect,05_Not specified,05_Total business sector,2019,1,Percent
+10 Reason for carrying out or funding R&D by sub-s,01_To gain entry into new markets,01_Primary,2012,34,Percent
+10 Reason for carrying out or funding R&D by sub-s,01_To gain entry into new markets,01_Primary,2014,24,Percent
+10 Reason for carrying out or funding R&D by sub-s,01_To gain entry into new markets,01_Primary,2016,32,Percent
+10 Reason for carrying out or funding R&D by sub-s,01_To gain entry into new markets,01_Primary,2018,23,Percent
+10 Reason for carrying out or funding R&D by sub-s,01_To gain entry into new markets,01_Primary,2019,26,Percent
+10 Reason for carrying out or funding R&D by sub-s,01_To gain entry into new markets,02_Manufacturing,2012,38,Percent
+10 Reason for carrying out or funding R&D by sub-s,01_To gain entry into new markets,02_Manufacturing,2014,38,Percent
+10 Reason for carrying out or funding R&D by sub-s,01_To gain entry into new markets,02_Manufacturing,2016,41,Percent
+10 Reason for carrying out or funding R&D by sub-s,01_To gain entry into new markets,02_Manufacturing,2018,41,Percent
+10 Reason for carrying out or funding R&D by sub-s,01_To gain entry into new markets,02_Manufacturing,2019,41,Percent
+10 Reason for carrying out or funding R&D by sub-s,01_To gain entry into new markets,03_Services,2012,37,Percent
+10 Reason for carrying out or funding R&D by sub-s,01_To gain entry into new markets,03_Services,2014,38,Percent
+10 Reason for carrying out or funding R&D by sub-s,01_To gain entry into new markets,03_Services,2016,32,Percent
+10 Reason for carrying out or funding R&D by sub-s,01_To gain entry into new markets,03_Services,2018,36,Percent
+10 Reason for carrying out or funding R&D by sub-s,01_To gain entry into new markets,03_Services,2019,35,Percent
+10 Reason for carrying out or funding R&D by sub-s,01_To gain entry into new markets,05_Total business sector,2012,37,Percent
+10 Reason for carrying out or funding R&D by sub-s,01_To gain entry into new markets,05_Total business sector,2014,37,Percent
+10 Reason for carrying out or funding R&D by sub-s,01_To gain entry into new markets,05_Total business sector,2016,35,Percent
+10 Reason for carrying out or funding R&D by sub-s,01_To gain entry into new markets,05_Total business sector,2018,37,Percent
+10 Reason for carrying out or funding R&D by sub-s,01_To gain entry into new markets,05_Total business sector,2019,37,Percent
+10 Reason for carrying out or funding R&D by sub-s,02_To catch up with key compeitors,01_Primary,2012,2,Percent
+10 Reason for carrying out or funding R&D by sub-s,02_To catch up with key compeitors,01_Primary,2014,8,Percent
+10 Reason for carrying out or funding R&D by sub-s,02_To catch up with key compeitors,01_Primary,2016,2,Percent
+10 Reason for carrying out or funding R&D by sub-s,02_To catch up with key compeitors,01_Primary,2018,2,Percent
+10 Reason for carrying out or funding R&D by sub-s,02_To catch up with key compeitors,01_Primary,2019,6,Percent
+10 Reason for carrying out or funding R&D by sub-s,02_To catch up with key compeitors,02_Manufacturing,2012,3,Percent
+10 Reason for carrying out or funding R&D by sub-s,02_To catch up with key compeitors,02_Manufacturing,2014,4,Percent
+10 Reason for carrying out or funding R&D by sub-s,02_To catch up with key compeitors,02_Manufacturing,2016,6,Percent
+10 Reason for carrying out or funding R&D by sub-s,02_To catch up with key compeitors,02_Manufacturing,2018,4,Percent
+10 Reason for carrying out or funding R&D by sub-s,02_To catch up with key compeitors,02_Manufacturing,2019,5,Percent
+10 Reason for carrying out or funding R&D by sub-s,02_To catch up with key compeitors,03_Services,2012,4,Percent
+10 Reason for carrying out or funding R&D by sub-s,02_To catch up with key compeitors,03_Services,2014,3,Percent
+10 Reason for carrying out or funding R&D by sub-s,02_To catch up with key compeitors,03_Services,2016,5,Percent
+10 Reason for carrying out or funding R&D by sub-s,02_To catch up with key compeitors,03_Services,2018,5,Percent
+10 Reason for carrying out or funding R&D by sub-s,02_To catch up with key compeitors,03_Services,2019,5,Percent
+10 Reason for carrying out or funding R&D by sub-s,02_To catch up with key compeitors,05_Total business sector,2012,4,Percent
+10 Reason for carrying out or funding R&D by sub-s,02_To catch up with key compeitors,05_Total business sector,2014,4,Percent
+10 Reason for carrying out or funding R&D by sub-s,02_To catch up with key compeitors,05_Total business sector,2016,5,Percent
+10 Reason for carrying out or funding R&D by sub-s,02_To catch up with key compeitors,05_Total business sector,2018,4,Percent
+10 Reason for carrying out or funding R&D by sub-s,02_To catch up with key compeitors,05_Total business sector,2019,5,Percent
+10 Reason for carrying out or funding R&D by sub-s,03_To maintain position in the market,01_Primary,2012,34,Percent
+10 Reason for carrying out or funding R&D by sub-s,03_To maintain position in the market,01_Primary,2014,26,Percent
+10 Reason for carrying out or funding R&D by sub-s,03_To maintain position in the market,01_Primary,2016,30,Percent
+10 Reason for carrying out or funding R&D by sub-s,03_To maintain position in the market,01_Primary,2018,25,Percent
+10 Reason for carrying out or funding R&D by sub-s,03_To maintain position in the market,01_Primary,2019,32,Percent
+10 Reason for carrying out or funding R&D by sub-s,03_To maintain position in the market,02_Manufacturing,2012,28,Percent
+10 Reason for carrying out or funding R&D by sub-s,03_To maintain position in the market,02_Manufacturing,2014,28,Percent
+10 Reason for carrying out or funding R&D by sub-s,03_To maintain position in the market,02_Manufacturing,2016,31,Percent
+10 Reason for carrying out or funding R&D by sub-s,03_To maintain position in the market,02_Manufacturing,2018,31,Percent
+10 Reason for carrying out or funding R&D by sub-s,03_To maintain position in the market,02_Manufacturing,2019,34,Percent
+10 Reason for carrying out or funding R&D by sub-s,03_To maintain position in the market,03_Services,2012,24,Percent
+10 Reason for carrying out or funding R&D by sub-s,03_To maintain position in the market,03_Services,2014,28,Percent
+10 Reason for carrying out or funding R&D by sub-s,03_To maintain position in the market,03_Services,2016,30,Percent
+10 Reason for carrying out or funding R&D by sub-s,03_To maintain position in the market,03_Services,2018,31,Percent
+10 Reason for carrying out or funding R&D by sub-s,03_To maintain position in the market,03_Services,2019,28,Percent
+10 Reason for carrying out or funding R&D by sub-s,03_To maintain position in the market,05_Total business sector,2012,26,Percent
+10 Reason for carrying out or funding R&D by sub-s,03_To maintain position in the market,05_Total business sector,2014,28,Percent
+10 Reason for carrying out or funding R&D by sub-s,03_To maintain position in the market,05_Total business sector,2016,30,Percent
+10 Reason for carrying out or funding R&D by sub-s,03_To maintain position in the market,05_Total business sector,2018,31,Percent
+10 Reason for carrying out or funding R&D by sub-s,03_To maintain position in the market,05_Total business sector,2019,30,Percent
+10 Reason for carrying out or funding R&D by sub-s,04_To become a dominant player in the market,01_Primary,2012,16,Percent
+10 Reason for carrying out or funding R&D by sub-s,04_To become a dominant player in the market,01_Primary,2014,26,Percent
+10 Reason for carrying out or funding R&D by sub-s,04_To become a dominant player in the market,01_Primary,2016,19,Percent
+10 Reason for carrying out or funding R&D by sub-s,04_To become a dominant player in the market,01_Primary,2018,23,Percent
+10 Reason for carrying out or funding R&D by sub-s,04_To become a dominant player in the market,01_Primary,2019,21,Percent
+10 Reason for carrying out or funding R&D by sub-s,04_To become a dominant player in the market,02_Manufacturing,2012,23,Percent
+10 Reason for carrying out or funding R&D by sub-s,04_To become a dominant player in the market,02_Manufacturing,2014,29,Percent
+10 Reason for carrying out or funding R&D by sub-s,04_To become a dominant player in the market,02_Manufacturing,2016,25,Percent
+10 Reason for carrying out or funding R&D by sub-s,04_To become a dominant player in the market,02_Manufacturing,2018,25,Percent
+10 Reason for carrying out or funding R&D by sub-s,04_To become a dominant player in the market,02_Manufacturing,2019,28,Percent
+10 Reason for carrying out or funding R&D by sub-s,04_To become a dominant player in the market,03_Services,2012,27,Percent
+10 Reason for carrying out or funding R&D by sub-s,04_To become a dominant player in the market,03_Services,2014,26,Percent
+10 Reason for carrying out or funding R&D by sub-s,04_To become a dominant player in the market,03_Services,2016,30,Percent
+10 Reason for carrying out or funding R&D by sub-s,04_To become a dominant player in the market,03_Services,2018,27,Percent
+10 Reason for carrying out or funding R&D by sub-s,04_To become a dominant player in the market,03_Services,2019,31,Percent
+10 Reason for carrying out or funding R&D by sub-s,04_To become a dominant player in the market,05_Total business sector,2012,25,Percent
+10 Reason for carrying out or funding R&D by sub-s,04_To become a dominant player in the market,05_Total business sector,2014,27,Percent
+10 Reason for carrying out or funding R&D by sub-s,04_To become a dominant player in the market,05_Total business sector,2016,27,Percent
+10 Reason for carrying out or funding R&D by sub-s,04_To become a dominant player in the market,05_Total business sector,2018,26,Percent
+10 Reason for carrying out or funding R&D by sub-s,04_To become a dominant player in the market,05_Total business sector,2019,29,Percent
+10 Reason for carrying out or funding R&D by sub-s,05_None of the above,01_Primary,2012,14,Percent
+10 Reason for carrying out or funding R&D by sub-s,05_None of the above,01_Primary,2014,21,Percent
+10 Reason for carrying out or funding R&D by sub-s,05_None of the above,01_Primary,2016,21,Percent
+10 Reason for carrying out or funding R&D by sub-s,05_None of the above,01_Primary,2018,33,Percent
+10 Reason for carrying out or funding R&D by sub-s,05_None of the above,01_Primary,2019,18,Percent
+10 Reason for carrying out or funding R&D by sub-s,05_None of the above,02_Manufacturing,2012,7,Percent
+10 Reason for carrying out or funding R&D by sub-s,05_None of the above,02_Manufacturing,2014,5,Percent
+10 Reason for carrying out or funding R&D by sub-s,05_None of the above,02_Manufacturing,2016,5,Percent
+10 Reason for carrying out or funding R&D by sub-s,05_None of the above,02_Manufacturing,2018,5,Percent
+10 Reason for carrying out or funding R&D by sub-s,05_None of the above,02_Manufacturing,2019,5,Percent
+10 Reason for carrying out or funding R&D by sub-s,05_None of the above,03_Services,2012,8,Percent
+10 Reason for carrying out or funding R&D by sub-s,05_None of the above,03_Services,2014,9,Percent
+10 Reason for carrying out or funding R&D by sub-s,05_None of the above,03_Services,2016,11,Percent
+10 Reason for carrying out or funding R&D by sub-s,05_None of the above,03_Services,2018,9,Percent
+10 Reason for carrying out or funding R&D by sub-s,05_None of the above,03_Services,2019,11,Percent
+10 Reason for carrying out or funding R&D by sub-s,05_None of the above,05_Total business sector,2012,8,Percent
+10 Reason for carrying out or funding R&D by sub-s,05_None of the above,05_Total business sector,2014,8,Percent
+10 Reason for carrying out or funding R&D by sub-s,05_None of the above,05_Total business sector,2016,9,Percent
+10 Reason for carrying out or funding R&D by sub-s,05_None of the above,05_Total business sector,2018,8,Percent
+10 Reason for carrying out or funding R&D by sub-s,05_None of the above,05_Total business sector,2019,9,Percent
+11 Full-Time equivalent personnel by occupation,02_Researcher,None,2012,5100,Count
+11 Full-Time equivalent personnel by occupation,02_Researcher,None,2014,6100,Count
+11 Full-Time equivalent personnel by occupation,02_Researcher,None,2016,7300,Count
+11 Full-Time equivalent personnel by occupation,02_Researcher,None,2018,8000,Count
+11 Full-Time equivalent personnel by occupation,02_Researcher,None,2019,9000,Count
+11 Full-Time equivalent personnel by occupation,04_Technician,None,2012,2500,Count
+11 Full-Time equivalent personnel by occupation,04_Technician,None,2014,3000,Count
+11 Full-Time equivalent personnel by occupation,04_Technician,None,2016,3000,Count
+11 Full-Time equivalent personnel by occupation,04_Technician,None,2018,4500,Count
+11 Full-Time equivalent personnel by occupation,04_Technician,None,2019,4500,Count
+11 Full-Time equivalent personnel by occupation,05_Support staff,None,2012,1200,Count
+11 Full-Time equivalent personnel by occupation,05_Support staff,None,2014,1000,Count
+11 Full-Time equivalent personnel by occupation,05_Support staff,None,2016,980,Count
+11 Full-Time equivalent personnel by occupation,05_Support staff,None,2018,1700,Count
+11 Full-Time equivalent personnel by occupation,05_Support staff,None,2019,1700,Count
+11 Full-Time equivalent personnel by occupation,07_Total business sector,None,2012,8800,Count
+11 Full-Time equivalent personnel by occupation,07_Total business sector,None,2014,10100,Count
+11 Full-Time equivalent personnel by occupation,07_Total business sector,None,2016,11000,Count
+11 Full-Time equivalent personnel by occupation,07_Total business sector,None,2018,14000,Count
+11 Full-Time equivalent personnel by occupation,07_Total business sector,None,2019,16000,Count
+11 Headcount of personnel by occupation,02_Researcher,None,2012,7200,Count
+11 Headcount of personnel by occupation,02_Researcher,None,2014,7700,Count
+11 Headcount of personnel by occupation,02_Researcher,None,2016,9500,Count
+11 Headcount of personnel by occupation,02_Researcher,None,2018,1100,Count
+11 Headcount of personnel by occupation,02_Researcher,None,2019,1200,Count
+11 Headcount of personnel by occupation,04_Technician,None,2012,3800,Count
+11 Headcount of personnel by occupation,04_Technician,None,2014,4400,Count
+11 Headcount of personnel by occupation,04_Technician,None,2016,4400,Count
+11 Headcount of personnel by occupation,04_Technician,None,2018,6600,Count
+11 Headcount of personnel by occupation,04_Technician,None,2019,7000,Count
+11 Headcount of personnel by occupation,05_Support staff,None,2012,22000,Count
+11 Headcount of personnel by occupation,05_Support staff,None,2014,1900,Count
+11 Headcount of personnel by occupation,05_Support staff,None,2016,1800,Count
+11 Headcount of personnel by occupation,05_Support staff,None,2018,2700,Count
+11 Headcount of personnel by occupation,05_Support staff,None,2019,2900,Count
+11 Headcount of personnel by occupation,07_Total business sector,None,2012,13000,Count
+11 Headcount of personnel by occupation,07_Total business sector,None,2014,14000,Count
+11 Headcount of personnel by occupation,07_Total business sector,None,2016,16000,Count
+11 Headcount of personnel by occupation,07_Total business sector,None,2018,20000,Count
+11 Headcount of personnel by occupation,07_Total business sector,None,2019,22000,Count
+12 Total R&D Expenditure by size,1) Zero,None,2012,65,$(million)
+12 Total R&D Expenditure by size,1) Zero,None,2014,55,$(million)
+12 Total R&D Expenditure by size,1) Zero,None,2016,44,$(million)
+12 Total R&D Expenditure by size,1) Zero,None,2018,151,$(million)
+12 Total R&D Expenditure by size,1) Zero,None,2019,140,$(million)
+12 Total R&D Expenditure by size,2) 1-9 employees,None,2012,147,$(million)
+12 Total R&D Expenditure by size,2) 1-9 employees,None,2014,126,$(million)
+12 Total R&D Expenditure by size,2) 1-9 employees,None,2016,144,$(million)
+12 Total R&D Expenditure by size,2) 1-9 employees,None,2018,207,$(million)
+12 Total R&D Expenditure by size,2) 1-9 employees,None,2019,255,$(million)
+12 Total R&D Expenditure by size,3) 10–19 employees,None,2012,79,$(million)
+12 Total R&D Expenditure by size,3) 10–19 employees,None,2014,111,$(million)
+12 Total R&D Expenditure by size,3) 10–19 employees,None,2016,150,$(million)
+12 Total R&D Expenditure by size,3) 10–19 employees,None,2018,148,$(million)
+12 Total R&D Expenditure by size,3) 10–19 employees,None,2019,190,$(million)
+12 Total R&D Expenditure by size,4) 20–49 employees,None,2012,155,$(million)
+12 Total R&D Expenditure by size,4) 20–49 employees,None,2014,146,$(million)
+12 Total R&D Expenditure by size,4) 20–49 employees,None,2016,193,$(million)
+12 Total R&D Expenditure by size,4) 20–49 employees,None,2018,246,$(million)
+12 Total R&D Expenditure by size,4) 20–49 employees,None,2019,358,$(million)
+12 Total R&D Expenditure by size,5) 50–99 employees,None,2012,178,$(million)
+12 Total R&D Expenditure by size,5) 50–99 employees,None,2014,179,$(million)
+12 Total R&D Expenditure by size,5) 50–99 employees,None,2016,202,$(million)
+12 Total R&D Expenditure by size,5) 50–99 employees,None,2018,226,$(million)
+12 Total R&D Expenditure by size,5) 50–99 employees,None,2019,280,$(million)
+12 Total R&D Expenditure by size,6) 100+ employees,None,2012,568,$(million)
+12 Total R&D Expenditure by size,6) 100+ employees,None,2014,628,$(million)
+12 Total R&D Expenditure by size,6) 100+ employees,None,2016,868,$(million)
+12 Total R&D Expenditure by size,6) 100+ employees,None,2018,1173,$(million)
+12 Total R&D Expenditure by size,6) 100+ employees,None,2019,1184,$(million)
+12 Total R&D Expenditure by size,8)Total business sector,None,2012,1193,$(million)
+12 Total R&D Expenditure by size,8)Total business sector,None,2014,1246,$(million)
+12 Total R&D Expenditure by size,8)Total business sector,None,2016,1602,$(million)
+12 Total R&D Expenditure by size,8)Total business sector,None,2018,2150,$(million)
+12 Total R&D Expenditure by size,8)Total business sector,None,2019,2407,$(million)
+13 Businesses performing R&D by size,1) Zero,None,2012,270,Count
+13 Businesses performing R&D by size,1) Zero,None,2014,240,Count
+13 Businesses performing R&D by size,1) Zero,None,2016,129,Count
+13 Businesses performing R&D by size,1) Zero,None,2018,192,Count
+13 Businesses performing R&D by size,1) Zero,None,2019,213,Count
+13 Businesses performing R&D by size,2) 1-9 employees,None,2012,582,Count
+13 Businesses performing R&D by size,2) 1-9 employees,None,2014,498,Count
+13 Businesses performing R&D by size,2) 1-9 employees,None,2016,447,Count
+13 Businesses performing R&D by size,2) 1-9 employees,None,2018,606,Count
+13 Businesses performing R&D by size,2) 1-9 employees,None,2019,606,Count
+13 Businesses performing R&D by size,3) 10–19 employees,None,2012,294,Count
+13 Businesses performing R&D by size,3) 10–19 employees,None,2014,288,Count
+13 Businesses performing R&D by size,3) 10–19 employees,None,2016,303,Count
+13 Businesses performing R&D by size,3) 10–19 employees,None,2018,306,Count
+13 Businesses performing R&D by size,3) 10–19 employees,None,2019,369,Count
+13 Businesses performing R&D by size,4) 20–49 employees,None,2012,276,Count
+13 Businesses performing R&D by size,4) 20–49 employees,None,2014,321,Count
+13 Businesses performing R&D by size,4) 20–49 employees,None,2016,324,Count
+13 Businesses performing R&D by size,4) 20–49 employees,None,2018,363,Count
+13 Businesses performing R&D by size,4) 20–49 employees,None,2019,423,Count
+13 Businesses performing R&D by size,5) 50–99 employees,None,2012,183,Count
+13 Businesses performing R&D by size,5) 50–99 employees,None,2014,171,Count
+13 Businesses performing R&D by size,5) 50–99 employees,None,2016,171,Count
+13 Businesses performing R&D by size,5) 50–99 employees,None,2018,189,Count
+13 Businesses performing R&D by size,5) 50–99 employees,None,2019,213,Count
+13 Businesses performing R&D by size,6) 100+ employees,None,2012,195,Count
+13 Businesses performing R&D by size,6) 100+ employees,None,2014,204,Count
+13 Businesses performing R&D by size,6) 100+ employees,None,2016,237,Count
+13 Businesses performing R&D by size,6) 100+ employees,None,2018,255,Count
+13 Businesses performing R&D by size,6) 100+ employees,None,2019,279,Count
+13 Businesses performing R&D by size,8) Total business sector,None,2012,1794,Count
+13 Businesses performing R&D by size,8) Total business sector,None,2014,1725,Count
+13 Businesses performing R&D by size,8) Total business sector,None,2016,1617,Count
+13 Businesses performing R&D by size,8) Total business sector,None,2018,1911,Count
+13 Businesses performing R&D by size,8) Total business sector,None,2019,2106,Count
+15 Broad purpose of research by sub-sector,01_Primary industries,01_Primary,2012,92,$(million)
+15 Broad purpose of research by sub-sector,01_Primary industries,01_Primary,2014,87,$(million)
+15 Broad purpose of research by sub-sector,01_Primary industries,01_Primary,2016,93,$(million)
+15 Broad purpose of research by sub-sector,01_Primary industries,01_Primary,2018,87,$(million)
+15 Broad purpose of research by sub-sector,01_Primary industries,01_Primary,2019,91,$(million)
+15 Broad purpose of research by sub-sector,01_Primary industries,02_Manufacturing,2012,55,$(million)
+15 Broad purpose of research by sub-sector,01_Primary industries,02_Manufacturing,2014,56,$(million)
+15 Broad purpose of research by sub-sector,01_Primary industries,02_Manufacturing,2016,61,$(million)
+15 Broad purpose of research by sub-sector,01_Primary industries,02_Manufacturing,2018,85,$(million)
+15 Broad purpose of research by sub-sector,01_Primary industries,02_Manufacturing,2019,93,$(million)
+15 Broad purpose of research by sub-sector,01_Primary industries,03_Services,2012,47,$(million)
+15 Broad purpose of research by sub-sector,01_Primary industries,03_Services,2014,52,$(million)
+15 Broad purpose of research by sub-sector,01_Primary industries,03_Services,2016,113,$(million)
+15 Broad purpose of research by sub-sector,01_Primary industries,03_Services,2018,158,$(million)
+15 Broad purpose of research by sub-sector,01_Primary industries,03_Services,2019,129,$(million)
+15 Broad purpose of research by sub-sector,01_Primary industries,05_Total business sector,2012,194,$(million)
+15 Broad purpose of research by sub-sector,01_Primary industries,05_Total business sector,2014,195,$(million)
+15 Broad purpose of research by sub-sector,01_Primary industries,05_Total business sector,2016,266,$(million)
+15 Broad purpose of research by sub-sector,01_Primary industries,05_Total business sector,2018,330,$(million)
+15 Broad purpose of research by sub-sector,01_Primary industries,05_Total business sector,2019,313,$(million)
+15 Broad purpose of research by sub-sector,02_Industrial and infrastructure development,01_Primary,2012,C,$(million)
+15 Broad purpose of research by sub-sector,02_Industrial and infrastructure development,01_Primary,2014,1,$(million)
+15 Broad purpose of research by sub-sector,02_Industrial and infrastructure development,01_Primary,2016,3,$(million)
+15 Broad purpose of research by sub-sector,02_Industrial and infrastructure development,01_Primary,2018,10,$(million)
+15 Broad purpose of research by sub-sector,02_Industrial and infrastructure development,01_Primary,2019,6,$(million)
+15 Broad purpose of research by sub-sector,02_Industrial and infrastructure development,02_Manufacturing,2012,409,$(million)
+15 Broad purpose of research by sub-sector,02_Industrial and infrastructure development,02_Manufacturing,2014,363,$(million)
+15 Broad purpose of research by sub-sector,02_Industrial and infrastructure development,02_Manufacturing,2016,512,$(million)
+15 Broad purpose of research by sub-sector,02_Industrial and infrastructure development,02_Manufacturing,2018,418,$(million)
+15 Broad purpose of research by sub-sector,02_Industrial and infrastructure development,02_Manufacturing,2019,500,$(million)
+15 Broad purpose of research by sub-sector,02_Industrial and infrastructure development,03_Services,2012,361,$(million)
+15 Broad purpose of research by sub-sector,02_Industrial and infrastructure development,03_Services,2014,421,$(million)
+15 Broad purpose of research by sub-sector,02_Industrial and infrastructure development,03_Services,2016,521,$(million)
+15 Broad purpose of research by sub-sector,02_Industrial and infrastructure development,03_Services,2018,893,$(million)
+15 Broad purpose of research by sub-sector,02_Industrial and infrastructure development,03_Services,2019,1018,$(million)
+15 Broad purpose of research by sub-sector,02_Industrial and infrastructure development,05_Total business sector,2012,799,$(million)
+15 Broad purpose of research by sub-sector,02_Industrial and infrastructure development,05_Total business sector,2014,785,$(million)
+15 Broad purpose of research by sub-sector,02_Industrial and infrastructure development,05_Total business sector,2016,1036,$(million)
+15 Broad purpose of research by sub-sector,02_Industrial and infrastructure development,05_Total business sector,2018,1320,$(million)
+15 Broad purpose of research by sub-sector,02_Industrial and infrastructure development,05_Total business sector,2019,1523,$(million)
+15 Broad purpose of research by sub-sector,03_Society,01_Primary,2012,4,$(million)
+15 Broad purpose of research by sub-sector,03_Society,01_Primary,2014,0,$(million)
+15 Broad purpose of research by sub-sector,03_Society,01_Primary,2016,C,$(million)
+15 Broad purpose of research by sub-sector,03_Society,01_Primary,2018,0,$(million)
+15 Broad purpose of research by sub-sector,03_Society,01_Primary,2019,1,$(million)
+15 Broad purpose of research by sub-sector,03_Society,02_Manufacturing,2012,34,$(million)
+15 Broad purpose of research by sub-sector,03_Society,02_Manufacturing,2014,43,$(million)
+15 Broad purpose of research by sub-sector,03_Society,02_Manufacturing,2016,42,$(million)
+15 Broad purpose of research by sub-sector,03_Society,02_Manufacturing,2018,133,$(million)
+15 Broad purpose of research by sub-sector,03_Society,02_Manufacturing,2019,150,$(million)
+15 Broad purpose of research by sub-sector,03_Society,03_Services,2012,68,$(million)
+15 Broad purpose of research by sub-sector,03_Society,03_Services,2014,64,$(million)
+15 Broad purpose of research by sub-sector,03_Society,03_Services,2016,120,$(million)
+15 Broad purpose of research by sub-sector,03_Society,03_Services,2018,182,$(million)
+15 Broad purpose of research by sub-sector,03_Society,03_Services,2019,226,$(million)
+15 Broad purpose of research by sub-sector,03_Society,05_Total business sector,2012,106,$(million)
+15 Broad purpose of research by sub-sector,03_Society,05_Total business sector,2014,108,$(million)
+15 Broad purpose of research by sub-sector,03_Society,05_Total business sector,2016,162,$(million)
+15 Broad purpose of research by sub-sector,03_Society,05_Total business sector,2018,316,$(million)
+15 Broad purpose of research by sub-sector,03_Society,05_Total business sector,2019,377,$(million)
+15 Broad purpose of research by sub-sector,04_Other purposes,01_Primary,2012,C,$(million)
+15 Broad purpose of research by sub-sector,04_Other purposes,01_Primary,2014,4,$(million)
+15 Broad purpose of research by sub-sector,04_Other purposes,01_Primary,2016,0,$(million)
+15 Broad purpose of research by sub-sector,04_Other purposes,01_Primary,2018,3,$(million)
+15 Broad purpose of research by sub-sector,04_Other purposes,01_Primary,2019,1,$(million)
+15 Broad purpose of research by sub-sector,04_Other purposes,02_Manufacturing,2012,38,$(million)
+15 Broad purpose of research by sub-sector,04_Other purposes,02_Manufacturing,2014,59,$(million)
+15 Broad purpose of research by sub-sector,04_Other purposes,02_Manufacturing,2016,56,$(million)
+15 Broad purpose of research by sub-sector,04_Other purposes,02_Manufacturing,2018,44,$(million)
+15 Broad purpose of research by sub-sector,04_Other purposes,02_Manufacturing,2019,20,$(million)
+15 Broad purpose of research by sub-sector,04_Other purposes,03_Services,2012,56,$(million)
+15 Broad purpose of research by sub-sector,04_Other purposes,03_Services,2014,95,$(million)
+15 Broad purpose of research by sub-sector,04_Other purposes,03_Services,2016,81,$(million)
+15 Broad purpose of research by sub-sector,04_Other purposes,03_Services,2018,136,$(million)
+15 Broad purpose of research by sub-sector,04_Other purposes,03_Services,2019,168,$(million)
+15 Broad purpose of research by sub-sector,04_Other purposes,05_Total business sector,2012,94,$(million)
+15 Broad purpose of research by sub-sector,04_Other purposes,05_Total business sector,2014,158,$(million)
+15 Broad purpose of research by sub-sector,04_Other purposes,05_Total business sector,2016,137,$(million)
+15 Broad purpose of research by sub-sector,04_Other purposes,05_Total business sector,2018,183,$(million)
+15 Broad purpose of research by sub-sector,04_Other purposes,05_Total business sector,2019,190,$(million)
+15 Broad purpose of research by sub-sector,16_Total Business Sector,01_Primary,2012,125,$(million)
+15 Broad purpose of research by sub-sector,16_Total Business Sector,01_Primary,2014,92,$(million)
+15 Broad purpose of research by sub-sector,16_Total Business Sector,01_Primary,2016,96,$(million)
+15 Broad purpose of research by sub-sector,16_Total Business Sector,01_Primary,2018,100,$(million)
+15 Broad purpose of research by sub-sector,16_Total Business Sector,01_Primary,2019,98,$(million)
+15 Broad purpose of research by sub-sector,16_Total Business Sector,02_Manufacturing,2012,536,$(million)
+15 Broad purpose of research by sub-sector,16_Total Business Sector,02_Manufacturing,2014,522,$(million)
+15 Broad purpose of research by sub-sector,16_Total Business Sector,02_Manufacturing,2016,671,$(million)
+15 Broad purpose of research by sub-sector,16_Total Business Sector,02_Manufacturing,2018,680,$(million)
+15 Broad purpose of research by sub-sector,16_Total Business Sector,02_Manufacturing,2019,763,$(million)
+15 Broad purpose of research by sub-sector,16_Total Business Sector,03_Services,2012,532,$(million)
+15 Broad purpose of research by sub-sector,16_Total Business Sector,03_Services,2014,632,$(million)
+15 Broad purpose of research by sub-sector,16_Total Business Sector,03_Services,2016,835,$(million)
+15 Broad purpose of research by sub-sector,16_Total Business Sector,03_Services,2018,1369,$(million)
+15 Broad purpose of research by sub-sector,16_Total Business Sector,03_Services,2019,1546,$(million)
+15 Broad purpose of research by sub-sector,16_Total Business Sector,05_Total business sector,2012,1193,$(million)
+15 Broad purpose of research by sub-sector,16_Total Business Sector,05_Total business sector,2014,1246,$(million)
+15 Broad purpose of research by sub-sector,16_Total Business Sector,05_Total business sector,2016,1602,$(million)
+15 Broad purpose of research by sub-sector,16_Total Business Sector,05_Total business sector,2018,2150,$(million)
+15 Broad purpose of research by sub-sector,16_Total Business Sector,05_Total business sector,2019,2407,$(million)
