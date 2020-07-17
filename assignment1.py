@@ -90,7 +90,16 @@ df
 df.columns
 df.describe()
 
+#HeatMap
+plt.figure(figsize=(20,10))
+d= df.corr()
+sns.heatmap(c,cmap='BrBG',annot=True)
 
+#Histogram
+df.head(10).plot(kind='bar', figsize=(10,5))
+plt.title('is_paid vs best seller')
+plt.ylabel('best-seller')
+plt.xlabel('is_paid')
 
 
 
